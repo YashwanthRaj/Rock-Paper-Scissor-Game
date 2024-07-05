@@ -1,7 +1,7 @@
 # Rock-Paper-Scissor-Game
 This is Rock Paper Scissor Game built using swift UI
 
-# **What you learned**
+# **What we learned so far **
 
 You’ve made your first two SwiftUI projects now, and completed a technique project too – this same cadence of two apps and a technique project continues to the end of the course, and will help you advance your knowledge quickly while taking the time to go back and refine what you learned.
 
